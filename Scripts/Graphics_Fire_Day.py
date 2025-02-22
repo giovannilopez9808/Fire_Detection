@@ -20,7 +20,7 @@ params.update({
     "Delta y": 30,
     "years": range(
         2012,
-        2024,
+        2026,
     )
 })
 ticks = list(
